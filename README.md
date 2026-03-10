@@ -1,4 +1,4 @@
 # BrickGames
-Freelancer Indie Game Studio
+Indie Game Developper
 
 More Soon
